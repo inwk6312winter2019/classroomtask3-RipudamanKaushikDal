@@ -1,0 +1,1 @@
+A simple card game in which 2 palyers pile up cards while taking turns throwing them.If a card thrown by a player matches the card at the top of the pile he/she takes the entire pile.Each player takes 10 turns.Player with most cards at the end of the game wins.(AKA 'Patte Pe Patta' in Hindi)
